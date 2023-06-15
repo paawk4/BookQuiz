@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookByTheLineQuiz</string>
+    <string name="start_text">MATCH THE COVER OF THE BOOK WITH ITS FIRST LINE</string>
+    <string name="play_btn_text">PLAY</string>
+    <string name="results_text">Results</string>
+    <string name="start_over_text">Start over</string>
+    <string name="book_text">Book:</string>
+    <string name="you_have_chosen_text">You have chosen:</string>
+</resources>
